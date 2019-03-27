@@ -18,4 +18,5 @@
  * api_doc_Workbench.sql 和 api_doc_Navicat.sql 为安装完成后产生的数据库文件
  * 检查更新的接口是GET请求:https://api.eolinker.com/openSource/Update/checkout
  * V4.0 的下载地址是:https://public.eolinker.com/os/eolinker_os_4_0.zip
+ * 用户密码的密文为明文两次md5加密生成的
  */
