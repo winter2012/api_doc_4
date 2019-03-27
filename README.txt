@@ -13,4 +13,9 @@
  * 使用教程以及帮助：http://help.eolinker.com/
  * 商务合作邮箱：market@eolinker.com
  * 用户讨论QQ群：284421832
+ *
+ * eolinker_os_4_0.zip 和 release.zip 均为 V4.0的安装文件
+ * api_doc_Workbench.sql 和 api_doc_Navicat.sql 为安装完成后产生的数据库文件
+ * 检查更新的接口是GET请求:https://api.eolinker.com/openSource/Update/checkout
+ * V4.0 的下载地址是:https://public.eolinker.com/os/eolinker_os_4_0.zip
  */
